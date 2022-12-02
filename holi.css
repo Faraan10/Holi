@@ -1,0 +1,60 @@
+.bgimg{
+    background-image: url("https://www.itl.cat/pngfile/big/186-1866789_holi-pictures-holi-photo-holi-festival.jpg");
+    background-size:cover;
+    height:60vh;
+}
+.firstheader{
+    font-family:Arial;
+    font-style:italic;
+    font-weight:10px;
+    color:white;
+    text-align:center;
+    padding:140px;
+}
+.size{
+    font-style:normal;
+    font-size:16px;
+    font-family:Arial;
+    text-align:center;
+}
+.resize{
+    font-weight:bold;
+    font-size:14px;
+    text-align:center;
+}
+.imagesize{
+    height:120px;
+    width:120px;
+}
+.card{
+    height:210px;
+    width:200px;
+    margin:10px;
+    padding:10px;
+    border-radius:10px;
+}
+.bottomcard{
+    background-color:whitesmoke;
+    
+    
+}
+.thirdimage{
+    height:140px;
+    width:170px;
+}
+.fourthimage{
+    height:140px;
+    width:160px;
+}
+.sixthimage{
+    height:133px;
+    width:170px;
+}
+.center{
+    border-radius:10px;
+    text-align:center;
+}
+.card:hover{
+    background-color:dodgerblue;
+    transform:scale(1.2);
+}
